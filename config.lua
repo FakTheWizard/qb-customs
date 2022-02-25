@@ -252,7 +252,7 @@ vehicleCustomisation = {
     {category = "Brake Upgrade", id = 12},
     {category = "Transmission Upgrade", id = 13},
     {category = "Suspension Upgrade", id = 15},
-    {category = "Armour Upgrade", id = 16},
+    --{category = "Armour Upgrade", id = 16},
     {category = "Turbo Upgrade", id = 18},
     {category = "Vanity Plates",id = 25},
     {category = "Trim A", id = 27},
